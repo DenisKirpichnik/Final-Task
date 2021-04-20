@@ -1,0 +1,24 @@
+.alert-success {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    border: 1px solid rgb(26, 220, 64);
+    background-color: rgb(36, 202, 27);
+    color: rgb(255, 255, 255);
+}
+
+.alert-failure {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    border: 1px solid red;
+    background-color: rgb(218, 50, 50);
+    color: white;
+}
+
+.alert__text {
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+    font-size: 15px;
+}
